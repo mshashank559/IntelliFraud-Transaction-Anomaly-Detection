@@ -160,7 +160,7 @@ To set up and run the project locally, follow these steps:
 
 **Clone the repository**
 
-git clone https://github.com/your-username/fraud-detection-case-study.git
+git clone [https://github.com/your-username/fraud-detection-case-study.git](https://github.com/mshashank559/IntelliFraud-Transaction-Anomaly-Detection)
 cd fraud-detection-case-study
 
 # Install dependencies
